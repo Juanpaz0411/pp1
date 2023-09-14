@@ -21,25 +21,26 @@ Si estas dos condiciones se cumplen es posible estudiar el patron que interferen
   <img src="https://github.com/Juanpaz0411/problema1/blob/master/imagenes/WhatsApp%20Image%202023-09-13%20at%206.15.59%20PM.jpeg" alt="portada" width="350" />
   <br>
 </p>
+A partir de la segunda imagen se determina que ** sen(θ) = m λ / d**.  
 
 Es posible calcular caracteristicas de este fenomeno tales como la longitud de onda, angulos de interferencia minimos y maximos, intensidad de la señal, entre otros.
 
 El angulo en el que estan determinados los maximos de interferencia es calculado por:
 
-d sen(θ) = m λ
+d sen(θ) = n λ
 
 El angulo en el que estan los minimos es calculado por 
 
-d sen(θ) = (m+0.5) λ
+d sen(θ) = (n+0.5) λ
 
 Usando metodos numericos es posible encontrar los angulos a los que se encuentran los ordenes minimos y maximos de difracción.
 
 ## Metodo de la bisección.
 evaluando en:
 
-d sen(θ) - m λ = 0 para maximos 
+d sen(θ) - n λ = 0 para maximos 
 
-d sen(θ) - (m+0.5) λ = 0 para minimos
+d sen(θ) - (n+0.5) λ = 0 para minimos
 
 
 ## Metodo de la falsa posición.

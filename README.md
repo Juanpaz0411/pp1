@@ -17,6 +17,11 @@ Si estas dos condiciones se cumplen es posible estudiar el patron que interferen
   <br>
 </p>
 
+<p align="center">
+  <img src="https://github.com/Juanpaz0411/problema1/blob/master/imagenes/WhatsApp%20Image%202023-09-13%20at%206.15.59%20PM.jpeg" alt="portada" width="350" />
+  <br>
+</p>
+
 Es posible calcular caracteristicas de este fenomeno tales como la longitud de onda, angulos de interferencia minimos y maximos, intensidad de la señal, entre otros.
 
 El angulo en el que estan determinados los maximos de interferencia es calculado por:
